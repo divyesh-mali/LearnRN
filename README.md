@@ -1,8 +1,15 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+## ----------- Note -------------
 
-# Getting Started
+https://github.com/divyesh-mali/React-Native-Basics
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+For the following topics listed below, refer my another repo given above, where I've already posted about these topics.
+1. Props 
+2. Styling
+3. Touchable opacity
+4. UI Components
+5. useState 
+
+
 
 ## Step 1: Start the Metro Server
 
