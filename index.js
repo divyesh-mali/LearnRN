@@ -8,10 +8,11 @@ import {name as appName} from './app.json';
 import buttonInfo from './Buttons/buttonInfo';
 import UseStateDemo from './useState/useStateDemo';
 import externalStyling from './UIandStyling/externalStyling';
-import textInput from './TextInput/textInput';
-import formInput from './TextInput/formInput';
-import flatList from './TextInput/flatList';
-import mapFunction from './TextInput/mapFunction';
+import textInput from './ListsAndTextInput/textInput';
+import formInput from './ListsAndTextInput/formInput';
+import flatList from './ListsAndTextInput/flatList';
+import mapFunction from './ListsAndTextInput/mapFunction';
 import gridView from './UIandStyling/gridView';
+import componentLoop from './ListsAndTextInput/componentLoop';
 
-AppRegistry.registerComponent(appName, () => gridView);
+AppRegistry.registerComponent(appName, () => componentLoop);
