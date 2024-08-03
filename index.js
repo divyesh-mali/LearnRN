@@ -14,5 +14,7 @@ import flatList from './ListsAndTextInput/flatList';
 import mapFunction from './ListsAndTextInput/mapFunction';
 import gridView from './UIandStyling/gridView';
 import componentLoop from './ListsAndTextInput/componentLoop';
+import sectionList from './ListsAndTextInput/sectionList';
+import classComponents from './Others/classComponents';
 
-AppRegistry.registerComponent(appName, () => componentLoop);
+AppRegistry.registerComponent(appName, () => classComponents);
