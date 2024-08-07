@@ -4,6 +4,7 @@ import React, { Component } from 'react'
 class classComponents extends Component {
 
     // To handle events in class components, we need to define a function without variable name like given below
+    // You cant use 'const' or 'let' keyword to define a function in class components
     handlePress = () => {
         console.log('Button pressed');
         
