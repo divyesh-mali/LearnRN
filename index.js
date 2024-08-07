@@ -15,6 +15,11 @@ import mapFunction from './ListsAndTextInput/mapFunction';
 import gridView from './UIandStyling/gridView';
 import componentLoop from './ListsAndTextInput/componentLoop';
 import sectionList from './ListsAndTextInput/sectionList';
-import classComponents from './Others/classComponents';
+import classComponents from './ClassComponent/classComponents';
+import statesAndProps from './ClassComponent/statesAndProps';
+import useEffects from './useEffect/useEffects';
+import componentDidUpdate from './useEffect/componentDidUpdate';
+import conditionalRendering from './useEffect/conditionalRendering';
+import useEffects2 from './useEffect/useEffects2';
 
-AppRegistry.registerComponent(appName, () => classComponents);
+AppRegistry.registerComponent(appName, () => useEffects2);
